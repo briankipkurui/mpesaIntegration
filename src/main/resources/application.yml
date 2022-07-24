@@ -1,0 +1,6 @@
+mpesa:
+  daraja:
+    consumer-key: sjBtoQcvWy72B13cRNHFJD4kqbjATV3A
+    consumer-secret: AA8fystxWZc5vNTV
+    grant-type: client_credentials
+    oauth-endpoint: https://sandbox.safaricom.co.ke/oauth/v1/generate
